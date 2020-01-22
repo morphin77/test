@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: 
+  action: 
+  action_reference: 
+
+two:
+  user: 
+  action: 
+  action_reference: 
